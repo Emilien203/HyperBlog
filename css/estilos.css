@@ -3,4 +3,25 @@ body
     color: lightblue;
     text-align: center;
     font-family: Arial;
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+#contenedor p
+{
+    color: gray;
+    text-align: center;
+    font-family: sans-serif;
+    border: solid black;
+    margin: 0;
+    align-items: center;
+    width: 150px;
+}
+
+body p
+{
+    color: black;
+    text-align: center;
+    font-family: Arial;
 }
