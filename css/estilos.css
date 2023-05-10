@@ -18,6 +18,14 @@ body
     align-items: center;
     width: 150px;
 }
+ #cabecera 
+ {
+    color: green;
+    text-align: left;
+    background-color: black;
+    font-weight: bold;
+    padding: 10px;
+ }
 
 body p
 {
