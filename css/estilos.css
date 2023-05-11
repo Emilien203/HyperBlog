@@ -2,7 +2,7 @@ body
 {
     color: lightblue;
     text-align: center;
-    font-family: Arial;
+    font-family:  Courier;
     display: flex;
     align-content: flex-start;
     align-items: center;
@@ -23,5 +23,4 @@ body p
 {
     color: black;
     text-align: center;
-    font-family: Arial;
 }
