@@ -12,12 +12,19 @@ body
 {
     color: gray;
     text-align: center;
-    font-family: sans-serif;
     border: solid black;
     margin: 0;
     align-items: center;
     width: 150px;
 }
+ #cabecera 
+ {
+    color: green;
+    text-align: left;
+    background-color: black;
+    font-weight: bold;
+    padding: 10px;
+ }
 
 body p
 {
